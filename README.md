@@ -1,8 +1,8 @@
 # django_blog
 
  Este es un proyecto de blog simple realizado con Django. Permite listar publicaciones, ver los detalles y agregar nuevas publicaciones a través de un formulario web.
-
- ## Instalación
+ 
+  ## Instalación
 
 1. Clona el repositorio:
    git clone <URL_del_repositorio>
